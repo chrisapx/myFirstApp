@@ -1,2 +1,2 @@
 # myFirstApp
-practicing the java spring boot frameworks for my first applications deployed.
+practicing the java spring boot frameworks for my first application.
